@@ -1,0 +1,18 @@
+# Definsive Security Intro
+## SOC
+- Security Operations Center
+- Team that monitors networks and systems
+
+## DFIR
+-Digital Forensics and Incident Response
+-Investigates cyber incidents and attacks
+
+## Malware Analysis
+## Static Anaiysis
+- Analyse malware without running it
+
+## Dynamic Analysis
+- Run malware in controlled enviroment
+
+## Ransomware
+- Malware that locks files and demands payment
