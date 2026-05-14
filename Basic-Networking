@@ -1,0 +1,14 @@
+In this room, I learned the basics of computer networking and how devices communicate with each other.
+
+I learned that:
+- IP stands for Internet Protocol.
+- IPv4 addresses contain 4 sections called octets.
+- Devices use IP addresses to identify and communicate with each other on a network.
+- Private IP addresses are used inside local networks, while Public IP addresses are used on the Internet.
+- MAC addresses are unique hardware identifiers assigned to devices.
+-MAC spoofing is when a device pretends to use another device's MAC address.
+
+In the practical lab, I spoofed a MAC address to gain access to a restricted site and learned how attackers can bypass network restrictions by impersonating trusted devices.
+
+Flag:
+THM{YOU_GOT_ON_TRYHACKME}
